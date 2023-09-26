@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sadim Tools Mama</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+![Screenshot_20230926-214416](https://github.com/MAMA-KING/MAMA/assets/146011203/42ffef11-297f-4907-9416-a7ebd18a3517)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mama-king&label=Profile%20views&color=0e75b6&style=flat" alt="mama-king" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mama-king" alt="mama-king" /></a> </p>
