@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sadim Tools Mama</h1>
-![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://github.com/MAMA-KING/MAMA/assets/146011203/83a5ccaf-8d99-447c-b823-4d59a6233857)
-
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mama-king&label=Profile%20views&color=0e75b6&style=flat" alt="mama-king" /> </p>
